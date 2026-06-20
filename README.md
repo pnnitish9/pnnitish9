@@ -28,32 +28,12 @@
 
 ---
 
-# 👨‍💻 About Me
-
-```cpp
-class NitishKumar {
-public:
-    string education = "B.Tech CSE (Final Year)";
-    string university = "Vignan's Foundation for Science, Technology & Research";
-    string goal = "Software Engineer";
-
-    vector<string> skills = {
-        "C++","Java","Python",
-        "JavaScript","React",
-        "Node.js","Express","MongoDB"
-    };
-
-    vector<string> learning = {
-        "System Design","Docker","AWS"
-    };
-};
-```
-
 ## 🚀 Quick Facts
 
 - 🎓 Final Year CSE Student
 - 💻 MERN Stack Developer
 - 🧩 Solved **350+ LeetCode Problems**
+- ⭐ CodeChef (3*) **1600+**
 - ⭐ LeetCode Rating **1500+**
 - 🚀 Building Full Stack Applications
 - 🌱 Learning System Design
@@ -83,14 +63,7 @@ A MERN application to manage events, registrations, attendance, and analytics.
 
 **Tech:** React • Express • MongoDB
 
----
 
-## 📌 Birthday Surprise Website
-Interactive website with animations, gallery, countdown, music, and quizzes.
-
-**Tech:** HTML • CSS • JavaScript
-
----
 
 # 📊 GitHub Stats
 
@@ -117,24 +90,6 @@ Interactive website with animations, gallery, countdown, music, and quizzes.
 </div>
 
 ---
-
-# 🌱 Currently Learning
-
-- System Design
-- Docker
-- AWS
-- Backend Optimization
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Solve 350+ LeetCode Problems
-- 🚀 Reach 500+ Problems
-- 📚 Master System Design
-- ☁️ Learn AWS & Docker
-- 💼 Crack an SDE Role
-
 ---
 
 # 🤝 Connect With Me
