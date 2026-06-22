@@ -1,8 +1,8 @@
-# Hi 👋, I'm Nitish Kumar
+# Hi, I'm Nitish Kumar
 
 <div align="center">
 
-### Software Engineer Aspirant • MERN Stack Developer • Problem Solver
+### Software Engineer Aspirant • MERN Stack Developer • Coder
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;350%2B+LeetCode+Problems;Learning+System+Design;Always+Building+Something+New" />
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Quick Facts
+## Quick Facts
 
 - 🎓 Final Year CSE Student
 - 💻 MERN Stack Developer
@@ -40,29 +40,6 @@
 - 🎯 Open to Software Engineering Opportunities
 
 ---
-
-# 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,git,github,html,css,tailwind,vscode&perline=8"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 📌 DSA Practice Tracker
-Create personalized DSA sheets, organize topics, and track progress efficiently.
-
-**Tech:** React • Node.js • Express • MongoDB • Tailwind CSS
-
----
-
-## 📌 Digital Event Management Portal
-A MERN application to manage events, registrations, attendance, and analytics.
-
-**Tech:** React • Express • MongoDB
-
 
 
 # 📊 GitHub Stats
@@ -81,7 +58,7 @@ A MERN application to manage events, registrations, attendance, and analytics.
 
 ---
 
-# 🏆 LeetCode
+# LeetCode
 
 <div align="center">
 
@@ -92,7 +69,7 @@ A MERN application to manage events, registrations, attendance, and analytics.
 ---
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <div align="center">
 
